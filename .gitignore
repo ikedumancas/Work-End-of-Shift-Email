@@ -3,4 +3,8 @@ token.pickle
 *.py[cod]
 __pycache__
 
+report.html
+recipients.csv
+
+
 .vscode
